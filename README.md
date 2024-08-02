@@ -1,4 +1,4 @@
-Claro! Aqui está um exemplo de um projeto simples usando arquitetura de microserviços: um aplicativo de "Lista de Tarefas" (To-Do List). Vamos dividir a aplicação em três microserviços:
+Aqui está um exemplo de um projeto simples usando arquitetura de microserviços: um aplicativo de "Lista de Tarefas" (To-Do List). Vamos dividir a aplicação em três microserviços:
 
     Serviço de Usuários: Gerencia a autenticação e os dados dos usuários.
     Serviço de Tarefas: Gerencia as tarefas dos usuários.
